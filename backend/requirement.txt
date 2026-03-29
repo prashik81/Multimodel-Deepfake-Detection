@@ -1,0 +1,13 @@
+flask
+flask-cors
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python
+librosa
+torch
+torchvision
+pillow
+transformers
+qrcode[pil]
